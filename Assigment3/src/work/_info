@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vadder
+Z0 !s110 1640793622
+!i10b 1
+!s100 Y;`Fz?LjC0QzPeNWf8_U<1
+II`l8[5ODD71zXQ3^oh^KE2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Gurcan/Desktop/260201069_P3
+w1640789422
+8C:/Users/Gurcan/Desktop/260201069_P3/adder.v
+FC:/Users/Gurcan/Desktop/260201069_P3/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1640793622.000000
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 eO5>=785`3<;WNjAaM1c^3
+Ihm:UW?Lg`TBG]<b1R4?b]0
+R1
+R2
+w1640793294
+8C:/Users/Gurcan/Desktop/260201069_P3/alu32.v
+FC:/Users/Gurcan/Desktop/260201069_P3/alu32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/alu32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/alu32.v|
+!i113 1
+R5
+R6
+valucont
+R0
+!i10b 1
+!s100 9C`zc6][Th>Xc_f4le1FY1
+IkN^M`>718CjK^2:[P;chk0
+R1
+R2
+w1640792599
+8C:/Users/Gurcan/Desktop/260201069_P3/alucont.v
+FC:/Users/Gurcan/Desktop/260201069_P3/alucont.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/alucont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/alucont.v|
+!i113 1
+R5
+R6
+vcontrol
+R0
+!i10b 1
+!s100 :jzAb3O7@@Nbm7n>AR98b1
+IooWPGbE4@McQ@`_^8m48X2
+R1
+R2
+w1640792370
+8C:/Users/Gurcan/Desktop/260201069_P3/control.v
+FC:/Users/Gurcan/Desktop/260201069_P3/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/control.v|
+!i113 1
+R5
+R6
+vmult2_to_1_32
+R0
+!i10b 1
+!s100 ^aXF>kbOQm5iDYT=bV7M11
+I9]P61Y_W>g05i?iEM;P`o2
+R1
+R2
+w1640789560
+8C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_32.v
+FC:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_32.v|
+!i113 1
+R5
+R6
+vmult2_to_1_5
+R0
+!i10b 1
+!s100 k]2`0V2=b67f6kc:ca8eK0
+Ikkh0SHZ@G>R5d00AnUfll3
+R1
+R2
+w1640789548
+8C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_5.v
+FC:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/mult2_to_1_5.v|
+!i113 1
+R5
+R6
+vmult4_to_1_32
+R0
+!i10b 1
+!s100 lG==c8Ee:`0WaZ5]4BlQ?3
+I@[;OK8i62nhIjz[lPL_Tz3
+R1
+R2
+w1640789409
+8C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_32.v
+FC:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_32.v|
+!i113 1
+R5
+R6
+vmult4_to_1_5
+R0
+!i10b 1
+!s100 ;a]eF1[Re][hWZM;dM_MG1
+IXK_1dHa[XQ`VglV3CMUng2
+R1
+R2
+w1640789397
+8C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_5.v
+FC:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/mult4_to_1_5.v|
+!i113 1
+R5
+R6
+vprocessor
+R0
+!i10b 1
+!s100 9[>S1:cj;2VP0L7;<GDEh1
+IZM6jGoj_Eb3eX;gX5oIdX0
+R1
+R2
+w1640793558
+8C:/Users/Gurcan/Desktop/260201069_P3/processor.v
+FC:/Users/Gurcan/Desktop/260201069_P3/processor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/processor.v|
+!i113 1
+R5
+R6
+vshift
+R0
+!i10b 1
+!s100 GWP55OEfIRVA_6M>iSY8d2
+Ik]BPG`MA7c1TRW2Y:ICFc3
+R1
+R2
+w1640789463
+8C:/Users/Gurcan/Desktop/260201069_P3/shift.v
+FC:/Users/Gurcan/Desktop/260201069_P3/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/shift.v|
+!i113 1
+R5
+R6
+vshift2
+R0
+!i10b 1
+!s100 He<Ni@OjZbN8>ITAQNO[31
+IIFD_297HMDVdFEl0f42ha1
+R1
+R2
+w1640789520
+8C:/Users/Gurcan/Desktop/260201069_P3/shift2.v
+FC:/Users/Gurcan/Desktop/260201069_P3/shift2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/shift2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/shift2.v|
+!i113 1
+R5
+R6
+vsignext
+R0
+!i10b 1
+!s100 JAEfRFLIAaX=@V<j@h[jS1
+IIZDm>U^OPmCSXeWR^4nZi3
+R1
+R2
+w1640789487
+8C:/Users/Gurcan/Desktop/260201069_P3/signext.v
+FC:/Users/Gurcan/Desktop/260201069_P3/signext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Gurcan/Desktop/260201069_P3/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Gurcan/Desktop/260201069_P3/signext.v|
+!i113 1
+R5
+R6
